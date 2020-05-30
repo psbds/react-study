@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 const logo = require("./logo.svg");
-const css = require('./App.css')
+require('./App.css')
 
 
 class App extends Component {
